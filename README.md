@@ -3,6 +3,7 @@ This was a coding challenge given by Roxiler Systems for a Mern Stack Intern rol
 
 # Screenshots
 
+![Default Month Selected](https://github.com/user-attachments/assets/a41b06a1-e9f1-444c-880e-68364dedece8)
 
 
 
